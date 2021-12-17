@@ -14,13 +14,13 @@
   
   <h4> ADD </h4>
   <ul>
-    <li> add new shake </li> 
+    <li> add new shake detials. </li> 
   </ul>
 
   <h4> RETRIEVE </h4>
   <ul>
-    <li> fetch all shake details </li> 
-    <li> fetch shake details based on shake id </li>
+    <li> fetch all shake details. </li> 
+    <li> fetch shake details based on shake id. </li>
   </ul>
 
   <h4> UPDATE </h4>
